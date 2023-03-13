@@ -1,0 +1,14 @@
+{
+  "name": "design_pattern",
+  "version": "1.0.0",
+  "source": "/src/index.html",
+  "author": "skl",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
