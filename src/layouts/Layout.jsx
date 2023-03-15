@@ -14,6 +14,7 @@ const Layout = () => {
         <div className="aside">
           <Link to="/about">About</Link>
           <Link to="/create">创造型</Link>
+          <Link to="/principle/single">设计模式</Link>
         </div>
         <div className="content">
           <Outlet></Outlet>
